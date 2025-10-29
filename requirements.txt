@@ -1,0 +1,6 @@
+streamlit
+gtts
+requests
+pdfplumber
+PyPDF2
+langdetect
